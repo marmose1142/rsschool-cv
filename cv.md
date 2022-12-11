@@ -8,4 +8,4 @@
 
 **SKILLS PROJECT EXPERIENCE**:
 
-do JavaScript tasks
+I have finished Java course with EPAM,do JavaScript tasks
